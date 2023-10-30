@@ -1,4 +1,4 @@
-a = 6
-b = 9
+a = 18
+b = 20
 print(a+b)
 print("ez a második file.")
